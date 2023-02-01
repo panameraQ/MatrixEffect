@@ -1,0 +1,8 @@
+C:\Users\GOAT\source\repos\ConsoleMatrixEffect\obj\Debug\ConsoleMatrixEffect.csproj.AssemblyReference.cache
+C:\Users\GOAT\source\repos\ConsoleMatrixEffect\obj\Debug\ConsoleMatrixEffect.csproj.SuggestedBindingRedirects.cache
+C:\Users\GOAT\source\repos\ConsoleMatrixEffect\obj\Debug\ConsoleMatrixEffect.csproj.CoreCompileInputs.cache
+C:\Users\GOAT\source\repos\ConsoleMatrixEffect\bin\Debug\ConsoleMatrixEffect.exe.config
+C:\Users\GOAT\source\repos\ConsoleMatrixEffect\bin\Debug\ConsoleMatrixEffect.exe
+C:\Users\GOAT\source\repos\ConsoleMatrixEffect\bin\Debug\ConsoleMatrixEffect.pdb
+C:\Users\GOAT\source\repos\ConsoleMatrixEffect\obj\Debug\ConsoleMatrixEffect.exe
+C:\Users\GOAT\source\repos\ConsoleMatrixEffect\obj\Debug\ConsoleMatrixEffect.pdb
